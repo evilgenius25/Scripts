@@ -13,11 +13,11 @@ window:CreateButtonF1("Jailbreak (Panther Hub)", function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Splooshhy/PantherHub/main/main/sexy/script.lua"))()
 	setclipboard("https://discord.gg/YgvrgEjQ8G")
 	game.StarterGui:SetCore("SendNotification",  {
-		Title = "Coco Hub";
-		Text = "This Script requires a key, i've copied the discord link for you, paste the link into your browser.";
+		Title = "SynHub";
+		Text = "This Script requires a key, I've copied the discord link for you, paste the link into your browser.";
 		Icon = "http://www.roblox.com/asset/?id=5114892367";
-		Duration = 10;
-		Button1 = "OK";
+		Duration = 15;
+		Button1 = "Close";
 	})
 end)
 
