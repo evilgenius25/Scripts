@@ -1,6 +1,6 @@
 
 
-local lib = loadstring(game:HttpGet(('https://gitlab.com/cococc/cocoscripthub/-/raw/master/CocoLib'),true))()
+local lib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/evilgenius25/Scripts/main/SynHub%20UI'),true))()
 local window = lib:CreateWindow()
 
 -- Game Scripts --
